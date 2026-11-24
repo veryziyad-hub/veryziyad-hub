@@ -2,7 +2,7 @@
 
 # Ziyad Almalki · زياد المالكي
 
-**Full-stack developer & founder of [Clean Code](https://cleancode.digital)**
+**Full-stack developer**
 مطوّر مواقع وتطبيقات  — الخبر، السعودية
 
 </div>
